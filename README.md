@@ -15,7 +15,7 @@ In the final computational exercise of Iterative Algorithms, we were tasked with
 Files included are the assignment debrief, our report, and the Python script written for this problem. 
 
 ## 4. Maths & Environment (March 2025)
-This course finished with two individual assignments - creating a website on a topic we previously had presented on, and writing a position piece on a topic of our choice. The website that I created can be found at: https://sites.google.com/student.rug.nl/cryptosystemsandethics. This topic fell under the "Ethics" heading, so as such, I discussed the potential future vulnerabilities of cryptosystems we use today and how a breakthrough in cracking them gives rise to many ethical dilemmas. \
+This course finished with two individual assignments - creating a website on a topic we previously had presented on, and writing a position piece on a topic of our choice. The website that I created can be found at: https://sites.google.com/student.rug.nl/cryptosystemsandethics. This topic fell under the "Ethics" heading, so as such, I discussed the potential future vulnerabilities of cryptosystems we use today and how a breakthrough in cracking them gives rise to many ethical dilemmas. 
 
 In my position piece, "The Limitations of Human Intuition in Mathematics", I explored the duality between logic and intuition, and question what role, if any, does intuition play in developing mathematics? I discussed paradoxes, the consequences of the *Hilbert Program* on formal logic, and whether or not intuition can play a definitive role in the development of mathematics. This essay can be found under the "Maths & Environment" folder.
 
